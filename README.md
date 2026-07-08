@@ -30,16 +30,12 @@ status: "Suit up. Ship code."
 
 <img src="https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=FFD700&labelColor=1a1a1a" />
 <img src="https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=FFD700&labelColor=1a1a1a" />
-<img src="https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=E63946&labelColor=1a1a1a" />
 <img src="https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react&logoColor=E63946&labelColor=1a1a1a" />
 <img src="https://img.shields.io/badge/-Node.js-000000?style=for-the-badge&logo=node.js&logoColor=FFD700&labelColor=1a1a1a" />
 <br/>
-<img src="https://img.shields.io/badge/-Docker-000000?style=for-the-badge&logo=docker&logoColor=E63946&labelColor=1a1a1a" />
-<img src="https://img.shields.io/badge/-AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=FFD700&labelColor=1a1a1a" />
 <img src="https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=E63946&labelColor=1a1a1a" />
-<img src="https://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux&logoColor=FFD700&labelColor=1a1a1a" />
 
-*(swap these for your actual stack — logo names follow [simple-icons](https://simpleicons.org/))*
+
 
 </div>
 
