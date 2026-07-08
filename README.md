@@ -5,7 +5,7 @@
 
 <!-- TYPING INTRO -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=E63946&center=true&vCenter=true&width=600&lines=Initializing+JARVIS+Protocol...;Genius.+Billionaire.+Developer.;Compiling+the+impossible+since+2019;Welcome+to+the+Stark+Terminal" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=E63946&center=true&vCenter=true&width=600&lines=Initializing+JARVIS+Protocol...;Genius.+Billionaire.+Developer.;Compiling+the+impossible+since+Birth;Welcome+to+the+Stark+Terminal" alt="Typing SVG" />
 </a>
 
 </div>
