@@ -73,8 +73,10 @@ status: "Suit up. Ship code."
 
 <div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Jegan115&repo=JobSphere&bg_color=0a0a0a&title_color=FFD700&icon_color=E63946&text_color=c9c9c9&hide_border=true" width="45%"/>
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jegan115&repo=GameVerse&bg_color=0a0a0a&title_color=FFD700&icon_color=E63946&text_color=c9c9c9&hide_border=true" width="45%"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Jegan115&repo=StartupIQ&bg_color=0a0a0a&title_color=FFD700&icon_color=E63946&text_color=c9c9c9&hide_border=true" width="45%"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Jegan115&repo=SpendSense&bg_color=0a0a0a&title_color=FFD700&icon_color=E63946&text_color=c9c9c9&hide_border=true" width="45%"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Jegan115&repo=Titanic_project_ML&bg_color=0a0a0a&title_color=FFD700&icon_color=E63946&text_color=c9c9c9&hide_border=true" width="45%"/>
 
 </div>
 
