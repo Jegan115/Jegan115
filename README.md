@@ -35,8 +35,6 @@ status: "Suit up. Ship code."
 <br/>
 <img src="https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=E63946&labelColor=1a1a1a" />
 
-
-
 </div>
 
 ---
@@ -46,7 +44,7 @@ status: "Suit up. Ship code."
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Jegan115&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=FFD700&icon_color=E63946&text_color=c9c9c9&ring_color=E63946" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jegan115E&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=FFD700&text_color=c9c9c9&langs_count=8" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jegan115&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=FFD700&text_color=c9c9c9&langs_count=8" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jegan115&hide_border=true&background=0a0a0a&ring=E63946&fire=FFD700&currStreakLabel=FFD700&sideLabels=c9c9c9&currStreakNum=ffffff&sideNums=ffffff&dates=8f8f8f" width="48%" />
 
@@ -69,10 +67,50 @@ status: "Suit up. Ship code."
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Jegan115&repo=JobSphere&bg_color=0a0a0a&title_color=FFD700&icon_color=E63946&text_color=c9c9c9&hide_border=true" width="45%"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Jegan115&repo=GameVerse&bg_color=0a0a0a&title_color=FFD700&icon_color=E63946&text_color=c9c9c9&hide_border=true" width="45%"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Jegan115&repo=SpendSense&bg_color=0a0a0a&title_color=FFD700&icon_color=E63946&text_color=c9c9c9&hide_border=true" width="45%"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Jegan115&repo=Titanic_project_ML&bg_color=0a0a0a&title_color=FFD700&icon_color=E63946&text_color=c9c9c9&hide_border=true" width="45%"/>
+<table>
+<tr>
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Jegan115&repo=JobSphere&bg_color=0a0a0a&title_color=FFD700&icon_color=E63946&text_color=c9c9c9&hide_border=true" width="100%"/>
+
+</td>
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Jegan115&repo=GameVerse&bg_color=0a0a0a&title_color=FFD700&icon_color=E63946&text_color=c9c9c9&hide_border=true" width="100%"/>
+
+<div align="center">
+<a href="https://game-verse-one-rouge.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/-LIVE%20DEMO-000000?style=for-the-badge&logo=vercel&logoColor=FFD700&labelColor=1a1a1a" />
+</a>
+</div>
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Jegan115&repo=SpendSense&bg_color=0a0a0a&title_color=FFD700&icon_color=E63946&text_color=c9c9c9&hide_border=true" width="100%"/>
+
+<div align="center">
+<a href="https://spend-sense-31rc-gules.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/-LIVE%20DEMO-000000?style=for-the-badge&logo=vercel&logoColor=FFD700&labelColor=1a1a1a" />
+</a>
+</div>
+
+</td>
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Jegan115&repo=Titanic_project_ML&bg_color=0a0a0a&title_color=FFD700&icon_color=E63946&text_color=c9c9c9&hide_border=true" width="100%"/>
+
+<div align="center">
+<a href="https://titanicprojectml-11.streamlit.app/" target="_blank">
+<img src="https://img.shields.io/badge/-LIVE%20DEMO-000000?style=for-the-badge&logo=streamlit&logoColor=E63946&labelColor=1a1a1a" />
+</a>
+</div>
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -96,7 +134,7 @@ status: "Suit up. Ship code."
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR-USERNAME&color=e63946&style=for-the-badge&label=SUIT+SCANS)
+![Profile Views](https://komarev.com/ghpvc/?username=Jegan115&color=e63946&style=for-the-badge&label=SUIT+SCANS)
 
 </div>
 
