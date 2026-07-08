@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:8b0000,100:ffd700&height=220&section=header&text=SYSTEM%20ONLINE&fontSize=55&fontColor=FFD700&animation=fadeIn&fontAlignY=38&desc=Y/N%20Full%20Name%20//%20MARK-VII%20BUILD&descAlignY=58&descSize=18&descColor=E63946" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:8b0000,100:ffd700&height=220&section=header&text=STARK%20ON%20WORK&fontSize=55&fontColor=FFD700&animation=fadeIn&fontAlignY=38&desc=JEGAN%20N%20%2F%2F%20MARK-VII%20BUILD&descAlignY=58&descSize=18&descColor=E63946" width="100%"/>
 
 <!-- TYPING INTRO -->
 <a href="https://git.io/typing-svg">
@@ -12,11 +12,11 @@
 
 ---
 
-### 🔴🟡 `> USER STATUS: ALIVE`
+### 🔴🟡 `> SYSTEM STATUS: ONLINE`
 
 ```yaml
 identity: Jegan N
-role: AI &  ML Engineer
+role: Full-Stack Developer / ML Engineer
 current_project: "Building something the world isn't ready for"
 location: Earth-616
 status: "Suit up. Ship code."
@@ -24,7 +24,7 @@ status: "Suit up. Ship code."
 
 ---
 
-### ⚙️ // TECH STACK
+### ⚙️ ARC REACTOR // TECH STACK
 
 <div align="center">
 
@@ -45,16 +45,16 @@ status: "Suit up. Ship code."
 
 ---
 
-### 📡// GITHUB STATS
+### 📡 LIVE TELEMETRY // GITHUB STATS
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Jegan115&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=FFD700&icon_color=E63946&text_color=c9c9c9&ring_color=E63946" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jegan115&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=FFD700&text_color=c9c9c9&langs_count=8" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=FFD700&icon_color=E63946&text_color=c9c9c9&ring_color=E63946" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=FFD700&text_color=c9c9c9&langs_count=8" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jegan115&hide_border=true&background=0a0a0a&ring=E63946&fire=FFD700&currStreakLabel=FFD700&sideLabels=c9c9c9&currStreakNum=ffffff&sideNums=ffffff&dates=8f8f8f" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&hide_border=true&background=0a0a0a&ring=E63946&fire=FFD700&currStreakLabel=FFD700&sideLabels=c9c9c9&currStreakNum=ffffff&sideNums=ffffff&dates=8f8f8f" width="48%" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jegan115&bg_color=0a0a0a&color=E63946&line=FFD700&point=ffffff&area=true&hide_border=true" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-USERNAME&bg_color=0a0a0a&color=E63946&line=FFD700&point=ffffff&area=true&hide_border=true" width="95%" />
 
 </div>
 
@@ -62,10 +62,10 @@ status: "Suit up. Ship code."
 
 ### 🧠 J.A.R.V.I.S. LOG // WHAT I'M BUILDING
 
-- 🔭 Currently working on: **Assembling my own Avengers... one repository at a time.**
-- 🌱 Learning: **MERN Stack • AI/ML • Data Analytics**
-- 💬 Ask me about: **How Are You This Cool**
-- ⚡ Fun fact: `if (worksOnFirstTry) { panic(); } 😅`
+- 🔭 Currently working on: **`project-name`**
+- 🌱 Learning: **new-skill-here**
+- 💬 Ask me about: **your-domain**
+- ⚡ Fun fact: `if (coffee.level < 20%) { productivity = 0; }`
 
 ---
 
@@ -73,8 +73,8 @@ status: "Suit up. Ship code."
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Jegan115&repo=GameVerse&bg_color=0a0a0a&title_color=FFD700&icon_color=E63946&text_color=c9c9c9&hide_border=true" width="45%"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Jegan115&repo=StartupIQ&bg_color=0a0a0a&title_color=FFD700&icon_color=E63946&text_color=c9c9c9&hide_border=true" width="45%"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR-USERNAME&repo=YOUR-REPO-1&bg_color=0a0a0a&title_color=FFD700&icon_color=E63946&text_color=c9c9c9&hide_border=true" width="45%"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR-USERNAME&repo=YOUR-REPO-2&bg_color=0a0a0a&title_color=FFD700&icon_color=E63946&text_color=c9c9c9&hide_border=true" width="45%"/>
 
 </div>
 
@@ -84,7 +84,7 @@ status: "Suit up. Ship code."
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/jegan-n" target="_blank">
+<a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FFD700&labelColor=1a1a1a" />
 </a>
 <a href="https://twitter.com/YOUR-HANDLE" target="_blank">
